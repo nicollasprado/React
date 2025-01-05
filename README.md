@@ -13,4 +13,5 @@
 - Persistência com Local Storage;
 - Rotas com react-router;
 - Utilização de Query Parameters;
+- Consumo de API com react;
 - Estilização com Tailwind css.
